@@ -29,9 +29,6 @@
 
 - 📫 How to reach me **thegautam.vaja@gmail.com**
 
-- 📄 Know about my experiences
-[My Resume](https://drive.google.com/file/d/1beyg5SmHG3wle-V5NxuRhFts03hgLyhX/preview)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -144,3 +141,7 @@
             alt="zumrudu-anka" />
     </a>
 </div>
+    
+<hr>
+<img align="center" width=100% src="Resume.jpg" alt="Resume" />
+<hr>
