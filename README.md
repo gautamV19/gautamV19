@@ -132,16 +132,4 @@
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="40" height="40" /> </a> </p <p align="right">
-  
-
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width=100%
-            src="https://github-profile-trophy.vercel.app/?username=gautamv19&theme=radical&title=MultiLanguage,Joined2020,Organizations,Commits,PullRequest,Issues,Repositories"
-            alt="zumrudu-anka" />
-    </a>
-</div>
-    
-<hr>
-<img align="center" width=100% src="Resume.jpg" alt="Resume" />
-<hr>
+ 
